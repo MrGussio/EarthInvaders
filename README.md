@@ -1,6 +1,6 @@
 # EarthInvaders
 Our entry for Ludum Dare 38, written in 72 hours.
-Click here to go to our LD game page: [https://ldjam.com/events/ludum-dare/38/earth-invaders/edit](https://ldjam.com/events/ludum-dare/38/earth-invaders/edit)
+Click here to go to our LD game page: [https://ldjam.com/events/ludum-dare/38/earth-invaders](https://ldjam.com/events/ludum-dare/38/earth-invaders)
 ![EarthInvaders Logo](https://static.jam.vg/raw/2c2/z/15ee.png)
 ## Made for LD38
 
