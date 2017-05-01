@@ -29,7 +29,7 @@ Things you might want to know before playing:
 Use A and D to move, W to fire.
 
 ## Downloads:
-Windows/Mac/Linux: [https://gussio.ga/downloads/earthinvaders/EarthInvaders.jar](https://gussio.ga/downloads/earthinvaders/EarthInvaders.jar) (6.3MB)
+[Go to our itch.io](https://mrgussio.itch.io/earth-invaders)
 
 ## Source code:
 https://github.com/MrGussio/EarthInvaders
